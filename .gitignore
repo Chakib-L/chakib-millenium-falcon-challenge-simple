@@ -57,6 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 .venv
+__pycache__/
 
 # next.js build output
 .next
